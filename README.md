@@ -1,2 +1,2 @@
 # TreasureChest
-Attempt at modernizing TreasureChest.
+Modified version of TreasureChest. 
